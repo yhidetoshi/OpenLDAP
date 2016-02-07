@@ -2,7 +2,7 @@ from fabric.api import run,env,put,sudo
 
 env.user = 'root'
 env.password = 'password'
-env.hosts = ['192.168.86.150']
+env.hosts = ['ipaddress']
 
 def start_install():
 
