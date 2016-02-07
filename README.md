@@ -2,5 +2,5 @@
 - CentOS6にインストール
   - installのFabric化
 - ssh認証
-- Redmine連携
+- Redmine/Jenkins連携
 - phpLDAPadmin/インストール/設定 
