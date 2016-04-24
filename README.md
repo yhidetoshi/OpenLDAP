@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/yhidetoshi/Pictures/raw/master/OpenLDAP/openldap-icon.png)
+
 #OpenLDAPでやった事
 - CentOS6にインストール
   - installのFabric化
